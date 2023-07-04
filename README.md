@@ -32,10 +32,22 @@ Web Scraping Top Automobile Companies using Python [Link](https://jovian.com/sau
 <h3>Blog Posts</h3>
 <h3>Connect with me:</h3>
 
+
+
 <h3>Languages and Tools:</h3>
+<div>
+ <a href="(https://scikit-learn.org/stable/)"> <img src="(https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)" title="ScikitLearn"  alt="ScikitLearn"  width=”40″ height=”40″> </a> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,mysql,git,linux&theme=light)](https://skills.thijs.gg)
+<br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-pati-tripathi)](https://github.com/saurabh-pati-tripathi/github-readme-stats)
+[![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh-pati-tripathi)](https://github.com/saurabh-pati-tripathi/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saurabh-pati-tripathi&theme=default)](https://git.io/streak-stats)
 
 <!---
 saurabh-pati-tripathi/saurabh-pati-tripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
